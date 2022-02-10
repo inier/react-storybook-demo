@@ -45,7 +45,7 @@
     "@storybook/react": "^5.1.9",
     "babel-loader": "^8.0.6",
     "babel-plugin-transform-md-import-to-string": "^1.0.6",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react-imgpro": "^1.4.1",
     "react-waypoint": "^9.0.2",
